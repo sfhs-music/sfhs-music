@@ -6,7 +6,7 @@
     #txt {
         font-family:roboto;
         font-size:15vw;
-        color:#341503;
+        color:#ffc530;
         text-align:center;
     }
 </style>
