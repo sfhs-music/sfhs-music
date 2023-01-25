@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style type="text/css">.tk-roboto{font-family:"roboto",sans-serif;}.tk-merriweather{font-family:"merriweather",serif;}</style>
