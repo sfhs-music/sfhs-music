@@ -22,6 +22,7 @@
 </div>
 </div>
 <div id="txt"></div>
+<div contenteditable="true"></div>
 
 <script>
 function startTime() {
