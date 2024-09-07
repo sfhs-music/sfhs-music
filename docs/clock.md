@@ -18,7 +18,7 @@
 <div style="width: 100%; height: 25px; border-bottom: 1px solid #d3d0ce; text-align: center"><img alt="" height="50px" id="" role="presentation" src="https://www.sfhs.com/uploaded/public_2018/crossAnchor.jpg" width="50px"></div>
 </div>
 
-<div style="text-align: center;"><span style="font-size: 10vw; background-color: #fff; padding: 0 10px; color:#512c1d; font-family:Merriweather;">Lancer&nbsp;<span style="color:#ffc530;">Music</span></span></div>
+<div style="text-align: center;"><span style="font-size: 10vw; background-color: #fff; padding: 0 10px; color:#512c1d; font-family:'Source Serif 4';">Lancer&nbsp;<span style="color:#a16c0d;">Music</span></span></div>
 </div>
 </div>
 <div id="txt"></div>
