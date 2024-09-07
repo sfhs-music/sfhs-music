@@ -22,7 +22,7 @@
 </div>
 </div>
 <div id="txt"></div>
-<div contenteditable="true" style="text-align:center;font-size: 5vw; font-family:'Barlow' ></div>
+<div contenteditable="true" style="text-align:center;font-size: 5vw; font-family:Barlow" ></div>
 
 <script>
 function startTime() {
