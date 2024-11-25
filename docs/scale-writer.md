@@ -5,6 +5,7 @@
   }
 </style>
 <body style="font-family:'barlow'">
+<div style="align:'center'">
 <h2 style="font-family: 'Source Serif 4'">Scale Writer</h2>
 <select id="rootSelect">
   <option value="cSharp">C♯</option>
@@ -54,8 +55,9 @@
 <button onclick="myRepeatbar()">Add %</button>
 <button onclick="clearFunction()">Clear</button>
 <button onclick="editFunction()">Edit</button>
-<button onclick="copyAll()">Copy All</button><br>
-<div id="scale" contenteditable="true"></div>
+<button onclick="copyAll()">Copy All</button>
+</div><br>
+<div id="scale" style="align='center'" contenteditable="true"></div>
 <script>
 //nestedArrays//
 const rootNested = [[2, 7, 12, 17, 22, 27, 32, 37, 43], [17, 22, 27, 31, 37, 43, 49, 54, 59], [31, 37, 43, 48, 54, 59, 65, 70, 76], [11, 17, 22, 26, 31, 37, 43, 48, 54], [26, 31, 37, 42, 48, 54, 59, 64, 70], [6, 11, 17, 21, 26, 31, 37, 42, 48], [21, 26, 31, 36, 42, 48, 54, 58, 64], [1, 6, 11, 16, 21, 26, 31, 36, 42], [16, 21, 26, 30, 36, 42, 48, 53, 58], [30, 36, 42, 47, 53, 58, 64, 69, 75], [10, 16, 21, 25, 30, 36, 42, 47, 53], [25, 30, 36, 41, 47, 53, 58, 63, 69], [5, 10, 16, 20, 25, 30, 36, 41, 47], [20, 25, 30, 35, 41, 47, 53, 57, 63], [0, 5, 10, 15, 20, 25, 30, 35, 41]];
