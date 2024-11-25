@@ -4,7 +4,7 @@
     padding-left: 5px;
   }
 </style>
-<body>
+<body style="font-family:'barlow'">
 <h2>Scale Writer</h2>
 <select id="rootSelect">
   <option value="cSharp">C♯</option>
