@@ -3,7 +3,7 @@
   #selection {
     margin: auto;
     width: 50%;
-    border: 3px solid green;
+    border: 5px #a16c0d;
     padding: 10px;
   }
   #scale {
