@@ -2,7 +2,7 @@
 <style>
   #selection {
     margin: auto;
-    width: 50%;
+    width: 66%;
     border: 5px #a16c0d;
     padding: 10px;
   }
