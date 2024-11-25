@@ -5,7 +5,7 @@
   }
 </style>
 <body style="font-family:'barlow'">
-<h2>Scale Writer</h2>
+<h2 style="font-family: 'Source Serif 4'">Scale Writer</h2>
 <select id="rootSelect">
   <option value="cSharp">C♯</option>
   <option value="fSharp">F♯</option>
