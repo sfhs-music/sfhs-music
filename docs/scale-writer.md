@@ -52,7 +52,6 @@
 <button onclick="myBarline()">Add |</button>
 <button onclick="myBarlinedbl()">Add ||</button>
 <button onclick="myRepeatbar()">Add %</button>
-<button onclick="myRepeatbar()">Add %</button>
 <button onclick="clearFunction()">Clear</button>
 <button onclick="editFunction()">Edit</button>
 <button onclick="copyAll()">Copy All</button><br>
