@@ -2,8 +2,9 @@
 <style>
   #selection {
     margin: auto;
-    width: 66%;
+    width: 75%;
     border: 5px; 
+    border-style: solid;
     border-color:#a16c0d;
     padding: 10px;
   }
